@@ -1,0 +1,7 @@
+{
+  "name": "parentheses_override_precedence",
+  "category": "expressions",
+  "expected_output": "60",
+  "stdin": "",
+  "description": "Parentheses must override default operator precedence."
+}

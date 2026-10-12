@@ -1,0 +1,7 @@
+{
+  "name": "multiple_writes",
+  "category": "io",
+  "expected_output": "3 8 13",
+  "stdin": "",
+  "description": "Multiple output operations should preserve their order."
+}

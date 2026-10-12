@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Local Mini-C build products
+/minic
+/ucodei
+/src/icg/minic
+/src/icg/lex.yy.c
+/src/icg/minic.tab.c
+/src/icg/minic.tab.h
+/src/icg/*.ast
+/src/icg/*.uco
+/src/icg/*.lst
+
+# Verification artifacts
+/verification/reports/
+__pycache__/
+*.py[cod]

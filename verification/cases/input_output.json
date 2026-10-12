@@ -1,0 +1,7 @@
+{
+  "name": "input_output",
+  "category": "io",
+  "expected_output": "42",
+  "stdin": "21\n",
+  "description": "The interpreter should read an integer and print twice its value."
+}

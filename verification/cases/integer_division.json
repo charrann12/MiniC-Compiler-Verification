@@ -1,0 +1,7 @@
+{
+  "name": "integer_division",
+  "category": "expressions",
+  "expected_output": "3",
+  "stdin": "",
+  "description": "Integer division of positive operands truncates the fractional part."
+}

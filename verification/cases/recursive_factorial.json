@@ -1,0 +1,7 @@
+{
+  "name": "recursive_factorial",
+  "category": "functions-recursion",
+  "expected_output": "120",
+  "stdin": "",
+  "description": "Recursive function calls and return values should work correctly."
+}

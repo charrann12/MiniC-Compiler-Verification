@@ -1,0 +1,7 @@
+{
+  "name": "while_loop_sum",
+  "category": "control-flow",
+  "expected_output": "15",
+  "stdin": "",
+  "description": "A loop accumulates the sum of integers from 1 through 5."
+}

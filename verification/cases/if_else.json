@@ -1,0 +1,7 @@
+{
+  "name": "if_else",
+  "category": "control-flow",
+  "expected_output": "1",
+  "stdin": "",
+  "description": "The true branch of an if/else statement should execute."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arithmetic_precedence",
+  "category": "expressions",
+  "expected_output": "50",
+  "stdin": "",
+  "description": "Multiplication must bind more tightly than addition."
+}
